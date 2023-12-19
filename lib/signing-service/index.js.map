@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/signing-service/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,kDAA0B;AAEnB,MAAM,yBAAyB,GAAG,CAAO,eAAuB,EAAE,QAAgB,EAAE,EAAE;IACzF,MAAM,GAAG,GAAG,MAAM,eAAK,CAAC,IAAI,CACxB,GAAG,eAAe,gBAAgB,EAClC,EAAE,QAAQ,EAAE,CACf,CAAC;IACF,OAAO,GAAG,CAAC,IAAI,CAAC;AACpB,CAAC,CAAA,CAAC;AANW,QAAA,yBAAyB,6BAMpC"}

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "mint",
+    "steps": [
+      {
+        "name": "Mint Popcode",
+        "fields": {
+          "skuAmount": "Number",
+          "skuName": "String",
+          "skuUom": "String"
+        },
+        "screenType": "form",
+        "rbac": [
+          {
+            "role": "user",
+            "resource": "mint",
+            "effect": "Allow"
+          }
+        ]
+      }
+    ]
+  }
+]
